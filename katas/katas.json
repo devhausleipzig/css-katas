@@ -5,6 +5,82 @@
       "name": "Starter",
       "katas": [
         {
+          "id": "html-intro",
+          "name": "HTML Intro"
+        },
+        {
+          "id": "css-intro",
+          "name": "CSS Intro"
+        },
+        {
+          "id": "quora-question",
+          "name": "Quora Question Card"
+        },
+        {
+          "id": "notification-badge",
+          "name": "Notification Badge"
+        },
+        {
+          "id": "absolutely-positioned-border",
+          "name": "Absolutely Positioned Border"
+        },
+        {
+          "id": "bauhaus-shapes",
+          "name": "Bauhaus Shapes"
+        },
+        {
+          "id": "card-shapes",
+          "name": "Card with Shapes"
+        },
+        {
+          "id": "blog-site",
+          "name": "(WiP) Blog Site"
+        },
+        {
+          "id": "flexbox-intro",
+          "name": "Flexbox Playground"
+        },
+        {
+          "id": "hero-banner",
+          "name": "(WiP) Hero Banner"
+        },
+        {
+          "id": "netflix-dummy",
+          "name": "Netflix Dummy"
+        },
+        {
+          "id": "grid-menu",
+          "name": "Grid Menu"
+        },
+        {
+          "id": "grid-template-areas",
+          "name": "Grid Template Areas"
+        },
+        {
+          "id": "dev-to",
+          "name": "Dev.to Navigation and Card"
+        },
+        {
+          "id": "devhaus-nav",
+          "name": "Devhaus Navigation and Footer"
+        },
+        {
+          "id": "n26-nav",
+          "name": "N26 Navigation"
+        },
+        {
+          "id": "navigation",
+          "name": "Navigation"
+        },
+        {
+          "id": "form-intro",
+          "name": "Form Intro"
+        },
+        {
+          "id": "newsletter-wucu",
+          "name": "Newsletter Subscription Box"
+        },
+        {
           "id": "button",
           "name": "Button"
         },
@@ -23,10 +99,6 @@
         {
           "id": "card",
           "name": "Card"
-        },
-        {
-          "id": "navigation",
-          "name": "Navigation"
         },
         {
           "id": "signin-form",
